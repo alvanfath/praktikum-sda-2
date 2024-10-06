@@ -19,8 +19,8 @@ class HashTable
 }
 // Penggunaan
 $hashTable = new HashTable();
-$hashTable->put("name", "Alice");
-$hashTable->put("age", 25);
+$hashTable->put("name", "Alvan Fathurahman");
+$hashTable->put("age", 20);
 echo $hashTable->get("name") . "\n"; // Output: Alice
 echo $hashTable->get("age") . "\n"; // Output: Alice
 ?>
